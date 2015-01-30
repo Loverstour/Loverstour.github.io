@@ -1,0 +1,9 @@
+@charset "utf-8";
+.background {
+	background-image:url(background.jpg)
+	background-repeat:no-repeat;
+    background-position:center;
+	height:100%;
+	width:100%;
+}
+	
